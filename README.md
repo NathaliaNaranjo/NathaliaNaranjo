@@ -22,8 +22,8 @@ BI, trato dados com Power Query e automatizo rotinas operacionais com
 Power Automate — experiência que aplico diretamente em projetos de
 análise de dados fora do trabalho.
 
-**Objetivo:** atuar como Analista de Dados Júnior ou estagiária em
-Análise de Dados, com foco em consultas SQL, construção de dashboards e
+**Objetivo:** atuar como estagiária em
+Análise de Dados ou Analista de Dados Júnior, com foco em consultas SQL, construção de dashboards e
 análises exploratórias que gerem insights de negócio.
 
 ## Projeto em destaque
